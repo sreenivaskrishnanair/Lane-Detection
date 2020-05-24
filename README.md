@@ -11,3 +11,4 @@ Description of algorithm: breaks down video into frames - processes each frame i
 
 >>>>>>> 55a96ef974679f70d46f12d2a0d37c7d411fe82a
 # Tin-Dog
+# Tin-Dog
